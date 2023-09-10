@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PisosEnVentaElda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PisosEnVentaElda_jar</output-path>
+    <root id="archive" name="PisosEnVentaElda.jar">
+      <element id="module-output" name="PisosEnVentaElda" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.4/jsoup-1.15.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
