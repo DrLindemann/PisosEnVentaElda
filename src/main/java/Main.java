@@ -8,10 +8,11 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
+        //URL donde haremos el scrap
         String url = "https://www.pisos.com/venta/pisos-elda/";
 
         try {
-            // Realiza una solicitud HTTP GET y obtén el HTML de la página
+            // Realiza una solicitud HTTP GET y obtiene el HTML de la página
             Document doc = Jsoup.connect(url).get();
 
             // Busca todas las casas que se encuentran en etiquetas con la clase "ad-preview"
