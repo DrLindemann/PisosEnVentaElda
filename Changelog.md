@@ -17,13 +17,3 @@ Todas las actualizaciones importantes de este proyecto se registrarán en este a
 ### Arreglado
 
 - Se han corregido errores menores en la extracción de datos de anuncios.
-
-## [Sin Publicar]
-
-### Cambiado
-
-- Se ha actualizado la estructura del proyecto para seguir las mejores prácticas de organización de código.
-
-### Agregado
-
-- Se ha añadido documentación adicional sobre cómo ejecutar y configurar la aplicación.
